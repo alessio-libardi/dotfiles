@@ -2,7 +2,7 @@
   "name": "Debian",
   "image": "mcr.microsoft.com/vscode/devcontainers/base",
   "features": {
-    "ghcr.io/devcontainers/features/python:1.6.4": {}
+    "ghcr.io/devcontainers/features/python:1.7.0": {}
   },
   "customizations": {
     "vscode": {
